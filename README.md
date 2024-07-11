@@ -7,7 +7,7 @@
 <p>🌟 In my free time, I enjoy tackling coding challenges and building personal projects that not only sharpen my skills but also bring my creative ideas to life.</p>
 <p>🚀 Looking ahead, I'm eager to expand my knowledge by exploring JavaScript frameworks like React or Vue.js, aiming to create even more robust and engaging web applications.</p>
 <p>Contact on <br>
-<a href="https://web.facebook.com/Ohiomatabn/"><i class="fa-brands fa-facebook-f fa-3x"></i> @Ohiomata BN</a></p>
+Facebook<a href="https://web.facebook.com/Ohiomatabn/"><i class="fa-brands fa-facebook-f fa-3x"></i> @Ohiomata BN</a></p>
 
 <!---
 Ohiomatabn/Ohiomatabn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
