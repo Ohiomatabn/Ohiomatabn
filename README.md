@@ -8,7 +8,7 @@
 <p>Contact me on <br>
 Facebook<a href="https://web.facebook.com/Ohiomatabn/"><i class="fa-brands fa-facebook-f fa-3x"></i> @Ohiomata BN</a><br>
 E-mail<a href="mailto:benjaminohiomatanathaniel@gmail.com"> benjaminohiomatanathaniel@gmail.com<br>
-Phone Number <a href="tel:+234 916 109 8199">+234 916 109 8199</p>
+Phone Number <a href="tel:+234 916 109 8199">+234 916 109 8199</a></p>
 
 <!---
 Ohiomatabn/Ohiomatabn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
