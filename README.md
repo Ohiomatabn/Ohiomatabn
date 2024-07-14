@@ -1,4 +1,6 @@
- <h1>👋 Hi, I’m @Ohiomatabn</h1>
+<body>
+ <div>
+ <h1 style="fontsize:20px;">👋 Hi, I’m @Ohiomatabn</h1>
  <p>A passionate web developer on a journey to master the art of creating dynamic responsive website</p>
  
 <p>🌐 My journey began with HTML and CSS, where I honed my skills in crafting beautiful and functional web pages. I specialize in ensuring websites look great on all devices, thanks to my proficiency in responsiveness techniques.</p>
@@ -9,6 +11,8 @@
 Facebook: <a href="https://web.facebook.com/Ohiomatabn/"><i class="fa-brands fa-facebook-f fa-3x"></i>@Ohiomata BN</a><br>
 E-mail: <a href="mailto:benjaminohiomatanathaniel@gmail.com">benjaminohiomatanathaniel@gmail.coms</a><br>
 Phone Number: <a href="tel:+234-916-109-8199">+234 916 109 8199</a></p>
+</body>
+</div>
 
 <!---
 Ohiomatabn/Ohiomatabn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
