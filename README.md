@@ -16,8 +16,3 @@ Phone Number: <a href="tel:+234-916-109-8199">+234 916 109 8199</a></p>
 <a href="https://ohiomatabn.netlify.app/">ohiomatabn.netlify.app</a>
 </body>
 </div>
-
-<!---
-Ohiomatabn/Ohiomatabn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
