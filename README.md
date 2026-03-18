@@ -1,16 +1,88 @@
-<body>
- <div>
- <h1 style="fontsize:20px;">Hi, I’m @Ohiomatabn</h1>
- <p>A passionate web developer on a journey to master the art of creating dynamic responsive website</p>
- 
-<p>My journey began with HTML, CSS, and BootStrap where I honed my skills in crafting beautiful and functional web pages. I expand my skills further by learning JavaScript, Firebase and React, Currently I'm creating one page based websites using React to sharpeneing my skills, and also converting my old project did with JavaScript to React.</p>
-<p>In my free time, I enjoy playing games like<br> EA Sport,<br> Chess<br> and also like tackling coding challenges using codewarrior and others <br> and building personal projects that not only sharpen my skills but also bring my creative ideas to life.</p>
-Facebook: <a href="https://web.facebook.com/Ohiomatabn/"><i class="fa-brands fa-facebook-f fa-3x"></i>@Ohiomata BN</a><br>
-E-mail: <a href="mailto:benjaminohiomatanathaniel@gmail.com">benjaminohiomatanathaniel@gmail.coms</a><br>
-Phone Number: <a href="tel:+234-916-109-8199">+234 916 109 8199</a></p>
+# 👋 Hi, I am @Ohiomatabn
 
-<h2>Visit My Portfolio</h2>
-<a href="https://ohiomatabn.netlify.app/">ohiomatabn.netlify.app</a>
-<em>Currently working on it... <em>
-</body>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;React+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
+</p>
+
+---
+
+## 🚀 About Me
+I am a passionate web developer on a journey to master the art of creating dynamic and responsive websites.
+
+- Started with HTML, CSS, and Bootstrap  
+- Expanded into JavaScript, Firebase, and React  
+- Currently building one-page applications with React  
+- Converting old JavaScript projects into React  
+
+---
+
+<!--## ⭐ Featured Projects
+
+### 🔹 Project One
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ohiomatabn&repo=your-repo-name&theme=tokyonight)](https://github.com/Ohiomatabn/your-repo-name)
+
+### 🔹 Project Two
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ohiomatabn&repo=your-second-repo&theme=tokyonight)](https://github.com/Ohiomatabn/your-second-repo)
+
+### 🔹 Project Three
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ohiomatabn&repo=your-third-repo&theme=tokyonight)](https://github.com/Ohiomatabn/your-third-repo)
+
+---
+-->
+
+## 🎯 What I Do
+- Build responsive web applications  
+- Practice coding challenges on Codewars  
+- Work on personal projects to sharpen my skills  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![React](https://img.shields.io/badge/React-black?logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)
+
+### ⚙️ Backend / Tools
+![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
+
+### 🔧 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Netlify](https://img.shields.io/badge/Netlify-green?logo=netlify)
+
+---
+
+## 🌐 Connect With Me
+- Facebook: [@Ohiomata BN](https://web.facebook.com/Ohiomatabn/)  
+- Email: benjaminohiomatanathaniel@gmail.com  
+- Phone: +234 916 109 8199  
+
+---
+
+## 🌍 Portfolio
+👉 https://ohiomatabn.netlify.app/  
+*Currently working on it...*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ohiomatabn&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohiomatabn&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ohiomatabn&theme=tokyonight)
+
+---
+
+## 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ohiomatabn&color=blue)
