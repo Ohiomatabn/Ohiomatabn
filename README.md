@@ -69,6 +69,10 @@ I am a passionate web developer on a journey to master the art of creating dynam
 
 ---
 
+## 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ohiomatabn&theme=react-dark)
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ohiomatabn&show_icons=true&theme=tokyonight)
